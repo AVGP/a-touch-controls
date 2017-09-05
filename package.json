@@ -1,0 +1,24 @@
+{
+  "name": "a-touch-controls",
+  "version": "1.0.0",
+  "description": "Touch / mouse controls for A-Frame without the gyroscope",
+  "main": "a-touch-controls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avgp/a-touch-controls.git"
+  },
+  "keywords": [
+    "aframe",
+    "controls",
+    "touch-controls"
+  ],
+  "author": "Martin Splitt <martin@3d.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avgp/a-touch-controls/issues"
+  },
+  "homepage": "https://github.com/avgp/a-touch-controls#readme"
+}
