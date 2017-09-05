@@ -1,6 +1,6 @@
 {
   "name": "a-touch-controls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Touch / mouse controls for A-Frame without the gyroscope",
   "main": "a-touch-controls.js",
   "scripts": {
